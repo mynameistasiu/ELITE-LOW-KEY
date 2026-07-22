@@ -5,8 +5,8 @@ import { saveTx } from '../utils/storage';
 
 const CODE_PRICE = 10000;
 const DISPLAY_PRICE = 10000;
-const ACCOUNT_NUMBER = '2077767374';
-const ACCOUNT_NAME = 'Usman Amina';
+const ACCOUNT_NUMBER = '2077503907';
+const ACCOUNT_NAME = 'YUNUSA ZAYYANU';
 const BANK_NAME = 'Kuda Bank';
 const WA = '+2347031572133';
 
