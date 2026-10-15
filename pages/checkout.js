@@ -5,9 +5,9 @@ import { saveTx } from '../utils/storage';
 
 const CODE_PRICE = 10000;
 const DISPLAY_PRICE = 10000;
-const ACCOUNT_NUMBER = '7025121092';
-const ACCOUNT_NAME = 'MUHAMMADU AHMAD';
-const BANK_NAME = 'Palmpay Bank';
+const ACCOUNT_NUMBER = '2091060321';
+const ACCOUNT_NAME = 'ADAMU ALIYU AHMAD';
+const BANK_NAME = 'KUDA BANK';
 const WA = '+2347031572133';
 
 function CopyIcon({ size = 16 }) {
